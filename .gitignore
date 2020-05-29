@@ -1,3 +1,5 @@
 .ipynb.checkpoints/
 sample/
 data/
+*.jpg
+*.png
